@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PedroPeterrr
 - 👀 I'm curious about learning to code.
-- 🌱 I’m currently learning HTML/CSS/JS to become a Web developer
+- 🌱 I'm currently learning HTML, CSS, and JavaScript to become a web developer.
 
 <!---
 PedroPeterrr/PedroPeterrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
